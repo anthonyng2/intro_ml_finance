@@ -4,4 +4,8 @@
 
 [Lesson 2 - Classification.ipynb](https://colab.research.google.com/github/anthonyng2/intro_ml_finance/blob/master/Lesson%202%20-%20Classification.ipynb)
 
-[Lesson 3 - Tree.ipynb](https://colab.research.google.com/github.com/anthonyng2/intro_ml_finance/blob/master/Lesson%203%20-%20Tree.ipynb)
+[Lesson 3 - Tree.ipynb](https://colab.research.google.com/github/anthonyng2/intro_ml_finance/blob/master/Lesson%203%20-%20Tree.ipynb)
+
+[Lesson 4 - Support Vector Machine.ipynb](https://colab.research.google.com/github/anthonyng2/intro_ml_finance/blob/master/Lesson%204%20-%20Support%20Vector%20Machine.ipynb)
+
+
