@@ -1,5 +1,7 @@
 # Introduction to Classical Machine Learning
 
+The notebook can be ran via Google Colab. All the links below will start the notebook within the Google Colab environment
+
 [Lesson 1 - Getting Started & Regression.ipynb](https://colab.research.google.com/github/anthonyng2/intro_ml_finance/blob/master/Lesson%201%20-%20Getting%20Started%20%26%20Regression.ipynb#scrollTo=M2jPNq45zcDp)
 
 [Lesson 2 - Classification.ipynb](https://colab.research.google.com/github/anthonyng2/intro_ml_finance/blob/master/Lesson%202%20-%20Classification.ipynb)
